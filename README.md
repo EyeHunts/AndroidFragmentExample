@@ -1,3 +1,3 @@
 # AndroidFragmentExample
 Android Fragment example – Kotlin
-http://tutorial.eyehunt.in/android/android-fragment-example-kotlin/
+https://tutorial.eyehunts.com/android/android-fragment-example-kotlin/
